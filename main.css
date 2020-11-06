@@ -15,10 +15,6 @@ body {
     margin-top: 200px;
 }
 
-.col a {
-    text-decoration: none;
-}
-
 footer {
     position: absolute;
     bottom: 0;
